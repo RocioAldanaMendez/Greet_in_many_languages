@@ -38,3 +38,14 @@ complex(5)
 
 complex(0, 4)
 4j
+
+#tercer cambio
+
+if estacion_favorita == "Invierno":
+    print("Esta es mi estación favorita también.")
+elif estacion_favorita == "Verano":
+    print("Me encanta el verano.")
+elif estacion_favorita == "Primavera":
+    print("Amo la primavera.")
+else:
+    print("El otoño es la estación favorita de mi mamá.")
